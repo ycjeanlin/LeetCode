@@ -2,6 +2,6 @@ LeetCode
 ========
 This repository is for Leet Code practice.
 
-Test for the update
+	1. This is line 1
 
 [Leet Code](https://oj.leetcode.com/problems/)
